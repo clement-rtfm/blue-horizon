@@ -6,7 +6,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ac5c300-122a-4ead-b572-6ec726d1f3d9" />
 
-Installation
+# Installation
 
 install with
 ````bash
